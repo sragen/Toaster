@@ -11,6 +11,6 @@ sourceControl {
 //        producesModule("org.gradle.cpp-samples:repo")
 //    }
     gitRepository("https://github.com/sragen/Toaster.git") {
-        producesModule("org.gradle.cpp-samples:repo")
+        producesModule("com.example.adi.mylib:toastibrary")
     }
 }
